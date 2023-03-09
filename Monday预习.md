@@ -14,5 +14,9 @@
 1. lecture ppt
 2. FIT2081笔记
 
+</br>
 
-# FIT547 Visualization先行
+# FIT5147 Visualization先行
+1. lecture ppt
+2. moodle上网页学习
+3. Intro to R,ppt
